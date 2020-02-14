@@ -1,0 +1,6 @@
+project.path=myproject
+project.workingsets=Set1,Set2
+project.workspace=example
+project.git.url=http://github.com/someorg/someproject
+project.git.branch=develop
+project.eclipse=import
