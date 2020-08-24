@@ -130,7 +130,9 @@
     <module name="SuppressionCommentFilter">
       <property name="offCommentFormat" value="CHECKSTYLE\:OFF \([a-zA-Z].*\)"/>
     </module>
+    <module name="SuppressWarningsHolder"/>
   </module>
+  <module name="SuppressWarningsFilter"/>
   <module name="FileLength"/>
   <module name="FileTabCharacter"/>
   <module name="JavadocPackage">
